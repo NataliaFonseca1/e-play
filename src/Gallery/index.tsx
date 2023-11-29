@@ -5,9 +5,6 @@ import play from '../assets/images/play.png'
 import zoom from '../assets/images/zoom.png'
 import close from '../assets/images/fechar.png'
 
-import spiderman from '../assets/images/banner-homem-aranha.png'
-import hogwarts from '../assets/images/fundo_hogwarts.png'
-
 import { GalleryItem } from '../pages/Home'
 
 type Props = {
